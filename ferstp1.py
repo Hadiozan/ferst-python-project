@@ -17,7 +17,7 @@ w.geometry("%dx%d" % (width, height))
 w.resizable(1,1)
 w.title('.  :  ferst project  :  .')
 
-img = ImageTk.PhotoImage(Image.open("ba.jpg"))
+img = ImageTk.PhotoImage(Image.open("pia.jpg"))
 
 ######################################################################################
 ###################################      CODES      ############      Backend      ###
